@@ -7,8 +7,8 @@ This repo showcases projects that demonstrate my skills in **SIEM analysis, inci
 
 ## Projects
 - [Project 1: SIEM Log Investigation – Brute Force Detection](./Project1-SIEM-BruteForce)  
-- Project 2: Incident Response Playbook (coming soon)  
-- Project 3: Microsoft 365 Risk Assessment (coming soon)  
+- [Project 2: Incident Response Playbook – Phishing Scenario](./Project2-IR-Playbook)  
+- [Project 3: Microsoft 365 Risk Assessment](./Project3-M365-RiskAssessment)  
 
 ---
 
