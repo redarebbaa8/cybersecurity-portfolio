@@ -22,9 +22,9 @@ This repo showcases projects that demonstrate my skills in **SIEM analysis, inci
 ---
 
 ## About Me
-- IBM Cybersecurity Analyst Certified  
-- 1 year QA experience at Warner Bros Games (debugging, testing, troubleshooting)  
-- Preparing for **SC-200: Microsoft Security Operations Analyst**  
-- Focused on building a career in **Microsoft security & compliance**  
+- IBM Cybersecurity Analyst Certified
+- 1 year QA experience at Warner Bros Games (debugging, troubleshooting, client support mindset)
+- Currently strengthening expertise in Microsoft security (SC-200 in progress)
+- Dedicated to building a long-term career in support engineering & Microsoft cloud security
 
 ---
