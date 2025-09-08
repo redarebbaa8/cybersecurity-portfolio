@@ -10,6 +10,8 @@ The goal is to demonstrate how a Support Engineer or SOC Analyst can detect susp
 - Microsoft Sentinel (KQL)  
 - Splunk (SPL)  
 - Elastic SIEM (ELK Stack)  
+- [Incident_Report_BruteForce.pdf](./Incident_Report_BruteForce.pdf) – Professional write-up of findings
+- `screenshots/` – Queries & investigation results
 
 ---
 
