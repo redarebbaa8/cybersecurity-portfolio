@@ -6,9 +6,9 @@ This repository showcases projects that demonstrate my skills in **compliance fr
 ---
 
 ## Projects
-- [Project 1: SOC 2 Readiness – Control Matrix & Risk Register](./SOC2-Readiness)  
-- [Project 2: Incident Response Playbook – Phishing Scenario](./Project2-IR-Playbook)  
-- [Project 3: Microsoft 365 Security & Compliance Risk Assessment](./Project3-M365-RiskAssessment)  
+- [Project 1: SOC 2 Risk Register – Excel Documentation](./SOC2_Risk_Register_.xlsx)
+- [Project 2: Incident Response Playbook – Phishing Scenario](./Project2-IR-Playbook)
+- [Project 3: Microsoft 365 Security & Compliance Risk Assessment](./Project3-M365-RiskAssessment)
 
 ---
 
