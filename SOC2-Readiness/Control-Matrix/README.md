@@ -2,9 +2,8 @@
 
 This folder contains a **SOC 2 Trust Services Criteria (TSC) control matrix** designed to track implementation status, ownership, and evidence of controls for SOC 2 readiness.  
 
-It includes three formats:  
-- **SOC2_Control_Matrix.xlsx** – Editable Excel version with filters, drop-downs, and color coding for tracking  
-- **SOC2_Control_Matrix.pdf** – Polished snapshot version, suitable for auditors or executive reporting  
+It includes two formats:  
+- [SOC2_Control_Matrix.xlsx](./SOC2_Control_Matrix.xlsx) – Editable Excel version with filters, drop-downs, and color coding for tracking 
 - **README.md** – Quick reference and overview  
 
 ---
@@ -32,6 +31,6 @@ This control matrix can be expanded by:
 - Adding **all Trust Services Criteria (TSC)** for Security, Availability, Confidentiality, Processing Integrity, and Privacy.  
 - Linking to actual **policy documents** (e.g., Access Control Policy, Incident Response Policy).  
 - Including a **Risk Register** to connect risks to SOC 2 controls.  
-- Attaching **sample evidence packs** (redacted screenshots, log exports, training records).  
+- Attaching **sample evidence packs** (redacted screenshots, log exports, training records).
 
-This demonstrates a full **SOC 2 readiness program** and provides a foundation for continuous compliance.   
+---
