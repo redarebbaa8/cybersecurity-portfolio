@@ -34,8 +34,4 @@ This control matrix can be expanded by:
 - Including a **Risk Register** to connect risks to SOC 2 controls.  
 - Attaching **sample evidence packs** (redacted screenshots, log exports, training records).  
 
-This demonstrates a full **SOC 2 readiness program** and provides a foundation for continuous compliance.  
-
----
-
-This format mirrors what is typically used in **corporate compliance programs** and SOC 2 audits.  
+This demonstrates a full **SOC 2 readiness program** and provides a foundation for continuous compliance.   
