@@ -39,5 +39,3 @@ This risk register can be expanded by:
 - Updating regularly as part of the organization’s **risk management process**.  
 
 ---
-
-This format mirrors what is typically used in **SOC 2 readiness programs** and **corporate risk management practices**.
