@@ -1,0 +1,43 @@
+# SOC 2 Risk Register & Readiness Tracking
+
+This folder contains a **SOC 2 risk register** designed to identify, assess, and manage risks relevant to SOC 2 readiness.  
+It complements a control matrix by showing how risks are mitigated through existing or planned controls.
+
+---
+
+## Files
+- [SOC2_Risk_Register_.xlsx](./SOC2_Risk_Register_.xlsx) – Editable Excel version with structured risks, likelihood/impact ratings, controls, residual risk, and treatment plans.  
+- **README.md** – Quick reference and overview.  
+
+---
+
+## How to Use
+1. Review and update the **Risk Description** column with relevant risks to your environment.  
+2. Rate each risk using the **Likelihood (1–5)** and **Impact (1–5)** scales.  
+3. Determine the **Inherent Risk** (before controls are applied).  
+4. Document the **Control(s)** currently in place.  
+5. Evaluate the **Residual Risk** (after controls).  
+6. Define a **Treatment Plan** (reduce, transfer, accept, or monitor).  
+
+---
+
+## Example Risks
+
+| Risk ID | Risk Description                          | Likelihood | Impact | Inherent Risk | Controls                              | Residual Risk | Treatment Plan                          |
+|---------|-------------------------------------------|------------|--------|---------------|---------------------------------------|---------------|-----------------------------------------|
+| R-001   | Unauthorized access to SaaS applications | 4          | 4      | High          | MFA, RBAC, access reviews             | Medium        | Quarterly access certification          |
+| R-002   | Data leakage through third-party vendors | 3          | 5      | High          | Vendor due diligence, DPA, NDA        | Low           | Annual vendor reviews, contract clauses |
+| R-009   | Phishing and social engineering attacks  | 5          | 4      | High          | Email filtering, phishing simulations | Medium        | Ongoing phishing tests and training     |
+
+---
+
+## Next Steps
+This risk register can be expanded by:
+- Adding more risks across Security, Availability, Confidentiality, Processing Integrity, and Privacy.  
+- Linking each risk to corresponding **SOC 2 controls** in a control matrix.  
+- Attaching **sample evidence** (e.g., redacted logs, screenshots, policy documents).  
+- Updating regularly as part of the organization’s **risk management process**.  
+
+---
+
+This format mirrors what is typically used in **SOC 2 readiness programs** and **corporate risk management practices**.
