@@ -19,7 +19,7 @@ This repository showcases projects that demonstrate my skills in **compliance fr
 - [Project 4: SOC 2 Control Matrix & Readiness Checklist](./Project4-SOC2-RiskRegister)  
   *SOC 2 Trust Services Criteria (TSC) control documentation, readiness checklist, and risk register.*  
 
-- [Project 5: GDPR GRC Compliance Toolkit](./Project5-GDPR-GRC-Compliance)  
+- [Project 5: GDPR GRC Compliance Toolkit](./Project5-GDPR-GRC-Compliance-Toolkit)  
   *GDPR risk register, control matrix, and compliance report aligned with Articles 5, 30, 32, 33, 35, and data subject rights.*  
 
 - [Project 6: NIST SP 800-171 Compliance Toolkit](./Project6-NIST-SP-800-171-Compliance)  
