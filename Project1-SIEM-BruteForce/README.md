@@ -13,12 +13,12 @@ To investigate suspicious login activity, identify brute force attacks, and demo
 ## Investigation Steps  
 
 1. **Log Source Integration**  
-   - Collected authentication logs from Microsoft 365 / Active Directory  
-   - Ingested into Microsoft Sentinel  
+   - Collected authentication logs from Microsoft 365 / Active Directory.  
+   - Ingested into Microsoft Sentinel.  
 
 2. **Detection Query (KQL)**  
-   ```kql
-   SecurityEvent
-   | where EventID == 4625
-   | summarize FailedLogins = count() by Account, IPAddress, bin(TimeGenerated, 5m)
-   | where FailedLogins > 10
+```kql
+SecurityEvent
+| where EventID == 4625
+| summarize FailedLogins = count() by Account, IPAddress, bin(TimeGenerated, 5m)
+| where FailedLogins > 10
