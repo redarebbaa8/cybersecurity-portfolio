@@ -61,4 +61,5 @@ It combines a structured risk register, control matrix, and compliance report to
 ---
 
 ## Notes
-- Toolkit aligns with **ISO 27001 Annex A**, **SOC 2 TSC (Security, Confidentiality, Privacy)**, and the **NIST Privacy Framework**.  
+- Toolkit aligns with **ISO 27001 Annex A**, **SOC 2 TSC (Security, Confidentiality, Privacy)**, and the **NIST Privacy Framework**.
+- Designed for **client deliverables, interviews, and audit preparation**.   
