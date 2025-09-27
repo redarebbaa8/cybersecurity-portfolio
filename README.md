@@ -27,7 +27,7 @@ POA&M-style control mapping for handling CUI, with example implementations, evid
 
 ---
 
-## 🎯 GRC Skills Highlighted
+## GRC Skills Highlighted
 
 - SOC 2 TSC — control matrix, readiness, risk register  
 - ISO/IEC 27001 Annex A — control mapping (via M365 assessment)  
