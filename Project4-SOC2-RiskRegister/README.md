@@ -6,7 +6,7 @@ It complements a control matrix by showing how risks are mitigated through exist
 ---
 
 ## Files
-- [SOC2_Risk_Register_.xlsx](./SOC2_Risk_Register_.xlsx) – Editable Excel version with structured risks, likelihood/impact ratings, controls, residual risk, and treatment plans.  
+- [SOC2_Risk_Register.xlsx](./SOC2_Risk_Register.xlsx) – Editable Excel version with structured risks, likelihood/impact ratings, controls, residual risk, and treatment plans.  
 - **README.md** – Quick reference and overview.  
 
 ---
