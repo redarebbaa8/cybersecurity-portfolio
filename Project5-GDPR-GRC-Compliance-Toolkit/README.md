@@ -13,7 +13,7 @@ It includes a risk register mapped to GDPR Articles, a control matrix for key re
 ---
 
 ## Deliverables
-- **Risk Register (Excel)** – [GDPR_Risk_Register_Expanded.xlsx](./GDPR_Risk_Register.xlsx)  
+- **Risk Register (Excel)** – [GDPR_Risk_Register.xlsx](./GDPR_Risk_Register.xlsx)  
   Ten GDPR risks with scoring, controls, residual risk, and treatment plans.
 - **Compliance Report (PDF)** – [GDPR_Compliance_Report.pdf](./GDPR_Compliance_Report.pdf)  
   Concise mapping of risks to GDPR Articles with next steps.
