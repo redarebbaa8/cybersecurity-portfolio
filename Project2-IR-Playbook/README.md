@@ -1,35 +1,47 @@
-# Project 2 – Incident Response Playbook (Phishing Scenario)
+# Project 2: Incident Response Playbook – Phishing Scenario  
 
-## Overview
-This project creates a **step-by-step Incident Response Playbook** for handling a **phishing attack** in a Microsoft 365 environment.  
-The playbook demonstrates the ability to structure, document, and guide organizations through incident handling.  
+This project demonstrates the design of an **Incident Response (IR) Playbook** for phishing attacks, aligned with industry standards (**NIST 800-61r2**) and compliance frameworks (**SOC 2, ISO 27001**).  
 
----
-
-## Tools
-- Lucidchart, Draw.io, or Microsoft Visio (for flowchart)  
-- Microsoft Word / Markdown (for explanations)  
+It provides a structured approach to managing security incidents while maintaining **audit-ready documentation and evidence**.  
 
 ---
 
-## Deliverables
-- [Phishing_Incident_Response_Playbook.pdf](./Phishing_Incident_Response_Playbook.pdf) – Playbook with process steps  
-- `screenshots/` – Optional flowchart images  
+## Objective  
+To create a repeatable and auditable response plan for phishing incidents that ensures:  
+- Quick detection and containment of threats  
+- Clear assignment of roles and responsibilities  
+- Evidence collection for compliance audits  
+- Continuous improvement through lessons learned  
 
 ---
 
-## Key Steps
-1. **Identify** – User reports suspicious email OR alert detected in Microsoft 365 Security Center.  
-2. **Contain** – Isolate affected mailbox, block malicious sender/domain.  
-3. **Investigate** – Analyze email headers, attachments, and audit logs.  
-4. **Eradicate** – Remove malicious emails from mailboxes across tenant.  
-5. **Recover** – Reset affected user credentials, enforce MFA, re-enable account.  
-6. **Lessons Learned** – Conduct awareness training, update SIEM rules.  
+## Playbook Phases  
+
+| Phase                | Description                                                   | Evidence Examples                         | Owner            |  
+|----------------------|---------------------------------------------------------------|-------------------------------------------|------------------|  
+| **Preparation**      | Awareness training, phishing simulations, predefined contacts | Training logs, LMS records                 | Compliance       |  
+| **Detection**        | SIEM alerting, suspicious email reports, header analysis      | Sentinel alerts, reported emails           | Security Analyst |  
+| **Containment**      | Isolate user accounts, block malicious senders/domains        | Entra ID logs, Defender quarantine logs    | IT Security      |  
+| **Eradication**      | Remove malicious messages, reset credentials                  | Exchange quarantine reports, reset logs    | IT Security      |  
+| **Recovery**         | Restore mailboxes, monitor for reinfection                    | Recovery logs, monitoring dashboards       | Security Ops     |  
+| **Lessons Learned**  | Post-incident review, tabletop exercises                      | IR report, meeting notes, action items     | Compliance / CISO|  
 
 ---
 
-## Skills Highlighted
-- Incident response methodology (NIST-style workflow)  
-- Documentation & playbook creation  
-- Microsoft 365 security controls awareness  
-- Translating technical response into clear process steps  
+## Compliance Mapping  
+- **SOC 2 CC7.2** – Incident Response procedures established and tested  
+- **ISO 27001 A.16** – Management of Information Security Incidents  
+- **NIST 800-61r2** – Computer Security Incident Handling Guide  
+
+---
+
+## Deliverables  
+- **Incident Response Playbook (Markdown/PDF)** – This README serves as the documentation.  
+- **Checklist Template (Excel/PDF)** – Assign responsibilities, track status, and log evidence.  
+
+---
+
+## Next Steps  
+- Automate response workflows with **Microsoft Sentinel playbooks (Logic Apps)**  
+- Maintain **evidence packs** (redacted screenshots, logs, reports) for audits  
+- Conduct quarterly phishing simulations as part of compliance testing  
