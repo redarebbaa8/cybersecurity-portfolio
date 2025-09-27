@@ -38,7 +38,9 @@ To create a repeatable and auditable response plan for phishing incidents that e
 
 ## Deliverables  
 - **Incident Response Playbook (Markdown/PDF)** – This README provides the documentation.  
-- **Checklist Template (Excel/PDF)** – Assign responsibilities, track status, and log evidence.  
+- **Checklist Template**  
+  - [Incident_Response_Playbook_Checklist.xlsx](./Incident_Response_Playbook_Checklist.xlsx) – Editable Excel checklist with phases, tasks, evidence, owner, and status tracking.  
+  - [Incident_Response_Playbook_Checklist.pdf](./Incident_Response_Playbook_Checklist.pdf) – Polished PDF version for easy sharing and printing.    
 
 ---
 
